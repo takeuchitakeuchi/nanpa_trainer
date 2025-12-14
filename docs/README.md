@@ -1,4 +1,4 @@
 
 
 
-![図が表示されていません](IMG/design_v1.png)
+![図が表示されていません](img/design_v1.png)
